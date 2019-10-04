@@ -1,0 +1,36 @@
+body{
+	text-align: center;
+	background-color: #616161;
+	color : #00C853;
+}
+h1{
+	font-size : 6rem;
+
+}
+.p1{
+	display:inline-block;
+	font-size: 3rem;
+	margin-right: 80px;
+}
+
+.p2{
+	display:inline-block;
+	margin-left: 80px;
+	font-size: 3rem;
+}
+.dice1{
+	display:inline-block;
+	margin: 0rem 2rem;
+}
+.dice2{
+	display:inline-block;
+	margin: 0rem 2rem;
+}
+
+img{
+	width: 250px;
+}
+
+#flag{
+	width: 100px;
+}
